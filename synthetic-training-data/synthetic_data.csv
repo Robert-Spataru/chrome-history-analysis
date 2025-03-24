@@ -1,0 +1,1228 @@
+Title,Sentiment Score
+"How to fix TypeError in Python",0.2
+"Understanding datetime in pandas",0.5
+"Best practices for time series analysis",0.7
+"Error: BrowserHistorySelector.get_important_pages",0.1
+"Python datetime format explained",0.6
+"Troubleshooting pandas datetime issues",0.3
+"Introduction to time series with pandas",0.5
+"Common mistakes with Python datetime",0.4
+"Optimizing pandas for large datasets",0.8
+"TypeError: get() takes 2 positional arguments",0.2
+"Mastering data visualization with matplotlib",0.9
+"Deep dive into Python's asynchronous programming",0.4
+"Exploring machine learning with scikit-learn",0.7
+"Understanding error handling in Python",0.3
+"Advanced techniques in pandas for time series",0.6
+"Python performance tips for data analysis",0.8
+"Common pitfalls in Python data structures",0.3
+"Guide to installing Python packages",0.5
+"Improving code quality with pylint",0.7
+"Resolving import errors in Python",0.2
+"Building robust APIs with Flask",0.9
+"Error: ModuleNotFoundError resolved",0.1
+"Step-by-step guide to Python decorators",0.5
+"Efficient file handling in Python",0.7
+"Debugging tips for Python developers",0.4
+"Enhancing Python scripts with logging",0.6
+"Troubleshooting virtual environments in Python",0.3
+"Understanding context managers in Python",0.5
+"Optimizing loops in Python code",0.8
+"Python's lambda functions explained",0.5
+"Effective use of list comprehensions in Python",0.7
+"Error: IndexError in Python explained",0.2
+"Guide to Python's f-string formatting",0.6
+"Advanced debugging with Python's pdb",0.4
+"Understanding exceptions in Python",0.3
+"Improving performance with Python multiprocessing",0.8
+"Python and data visualization with seaborn",0.7
+"Best practices for writing Python scripts",0.5
+"Understanding asynchronous programming in Python",0.4
+"Handling memory errors in Python",0.2
+"Getting started with pandas for data analysis",0.6
+"Mastering data wrangling in Python",0.8
+"Troubleshooting segmentation faults in Python",0.1
+"Python unit testing with pytest",0.7
+"Optimizing data pipelines in Python",0.8
+"Understanding recursion in Python",0.5
+"Debugging segmentation faults in C extensions",0.3
+"Introduction to web scraping with Python",0.7
+"Building machine learning models in Python",0.9
+"Data cleaning techniques with pandas",0.6
+"Effective error logging in Python applications",0.5
+"Guide to Python virtual environments",0.7
+"Understanding dependency management in Python",0.6
+"Resolving syntax errors in Python code",0.2
+"Tips for writing clean Python code",0.8
+"Debugging runtime errors in Python",0.3
+"Exploring Python's standard library",0.7
+"Optimizing Python code with Cython",0.8
+"Understanding memory management in Python",0.5
+"Advanced data visualization techniques in Python",0.9
+"Error: ValueError explained in Python",0.2
+"Mastering web development with Django",0.8
+"Understanding Python metaclasses",0.4
+"Troubleshooting database connections in Python",0.3
+"Guide to asynchronous programming with asyncio",0.5
+"Python threading vs multiprocessing",0.6
+"Optimizing Python web applications",0.7
+"Deep dive into Python's internals",0.4
+"Understanding decorators in depth",0.5
+"Efficient use of generators in Python",0.7
+"Resolving KeyError in Python dictionaries",0.2
+"How to structure large Python projects",0.8
+"Guide to Python's itertools module",0.6
+"Troubleshooting configuration errors in Python",0.3
+"Optimizing performance in Python scripts",0.8
+"Understanding global vs local variables in Python",0.5
+"Advanced techniques for Python error handling",0.4
+"Debugging memory leaks in Python",0.2
+"Introduction to data science with Python",0.7
+"Building RESTful APIs in Python with FastAPI",0.9
+"Understanding package management with pip",0.6
+"Troubleshooting dependency conflicts in Python",0.3
+"Mastering object-oriented programming in Python",0.8
+"Python lambda functions and map/filter",0.5
+"Resolving RuntimeError in Python",0.2
+"Best practices for exception handling in Python",0.7
+"Guide to building GUIs with Tkinter",0.6
+"Understanding the Python GIL",0.4
+"Optimizing file I/O in Python",0.7
+"Troubleshooting network errors in Python",0.3
+"Building scalable applications with Python",0.8
+"Understanding context managers and decorators",0.5
+"Advanced debugging techniques for Python",0.4
+"Guide to asynchronous I/O in Python",0.6
+"Troubleshooting SSL errors in Python",0.2
+"Introduction to Python for data engineering",0.7
+"Best practices for code refactoring in Python",0.8
+"Understanding error messages in Python logs",0.3
+"Optimizing algorithm performance in Python",0.9
+"Mastering advanced Python programming techniques",0.8
+"Top 10 healthy breakfast recipes for weight loss",0.7
+"Understanding the stock market for beginners",0.6
+"How to treat lower back pain naturally",0.5
+"Budget travel tips for Europe",0.8
+"Error: 403 Forbidden on website access",0.1
+"Managing anxiety during stressful times",0.4
+"Best Mediterranean diet meal plans",0.9
+"Troubleshooting WiFi connectivity issues",0.3
+"Guide to sustainable gardening",0.7
+"Understanding cryptocurrency investments",0.6
+"Common symptoms of vitamin D deficiency",0.4
+"Tips for effective home workouts",0.8
+"Resolving credit card payment errors",0.2
+"Mastering Italian cooking techniques",0.9
+"Guide to mindfulness meditation for beginners",0.7
+"Troubleshooting car engine noise",0.3
+"Introduction to photography for beginners",0.8
+"Understanding mortgage refinancing options",0.6
+"Resolving joint pain in athletes",0.2
+"Best practices for resume writing",0.7
+"Home remedies for common cold symptoms",0.5
+"Troubleshooting smart TV connection issues",0.3
+"Advanced techniques for landscape photography",0.8
+"Understanding retirement investment strategies",0.6
+"Common mistakes in intermittent fasting",0.4
+"Tips for improving sleep quality",0.7
+"Resolving Amazon delivery issues",0.2
+"Mastering French pastry techniques",0.9
+"Guide to house plant care for beginners",0.7
+"Troubleshooting washing machine problems",0.3
+"Introduction to electric vehicles",0.8
+"Understanding student loan repayment options",0.5
+"Resolving skin irritation from new products",0.2
+"Best practices for home office setup",0.7
+"Natural remedies for seasonal allergies",0.6
+"Troubleshooting Bluetooth pairing issues",0.3
+"Advanced techniques for portrait photography",0.8
+"Understanding 401k investment choices",0.6
+"Common mistakes in keto diet planning",0.4
+"Tips for effective time management",0.7
+"Resolving online banking access issues",0.2
+"Mastering Asian cooking techniques",0.9
+"Guide to sustainable fashion choices",0.7
+"Troubleshooting printer connection problems",0.3
+"Introduction to backyard bird watching",0.8
+"Understanding insurance coverage options",0.5
+"Resolving persistent headaches naturally",0.4
+"Best practices for online job interviews",0.7
+"Natural ways to lower blood pressure",0.6
+"Troubleshooting smartphone battery drain",0.3
+"Advanced techniques for night photography",0.8
+"Understanding real estate investment options",0.7
+"Common mistakes in strength training",0.4
+"Tips for effective remote team management",0.8
+"Resolving checkout errors on e-commerce sites",0.2
+"Mastering bread baking techniques",0.9
+"Guide to zero-waste living",0.7
+"Troubleshooting refrigerator cooling problems",0.3
+"Introduction to star gazing",0.8
+"Understanding credit score improvement",0.6
+"Resolving chronic fatigue with lifestyle changes",0.5
+"Best practices for pandemic-safe travel",0.7
+"Natural remedies for digestive issues",0.6
+"Troubleshooting smart home device connectivity",0.3
+"Advanced techniques for food photography",0.8
+"Understanding bond market investments",0.6
+"Common mistakes in marathon training",0.4
+"Tips for effective distance learning",0.7
+"Resolving PayPal payment declined errors",0.2
+"Mastering Mexican cooking techniques",0.9
+"Guide to urban vegetable gardening",0.8
+"Troubleshooting dishwasher drainage issues",0.3
+"Introduction to wine appreciation",0.8
+"Understanding pet insurance options",0.6
+"Resolving recurring insomnia naturally",0.4
+"Best practices for social media marketing",0.7
+"Natural ways to boost immune system",0.8
+"Troubleshooting Google account access issues",0.3
+"Advanced techniques for macro photography",0.9
+"Understanding international stock investments",0.6
+"Common mistakes in yoga practice",0.4
+"Tips for effective public speaking",0.7
+"Resolving streaming service buffering issues",0.2
+"Mastering Indian cooking techniques",0.9
+"Guide to composting for beginners",0.7
+"Troubleshooting air conditioner performance",0.3
+"Introduction to birdwatching for beginners",0.8
+"Understanding mortgage pre-approval process",0.6
+"Resolving knee pain with targeted exercises",0.5
+"Best practices for video conferencing",0.7
+"Natural remedies for anxiety relief",0.6
+"Troubleshooting laptop overheating issues",0.3
+"Advanced techniques for wildlife photography",0.9
+"Understanding cryptocurrency tax implications",0.5
+"Common mistakes in intermittent fasting",0.4
+"Tips for effective home schooling",0.7
+"Resolving Spotify playback errors",0.2
+"Mastering Japanese cooking techniques",0.9
+"Guide to indoor herb gardening",0.8
+"Troubleshooting vacuum cleaner suction problems",0.3
+"Introduction to watercolor painting",0.8
+"Understanding health insurance deductibles",0.5
+"Resolving tension headaches with stretching",0.4
+"Best practices for networking on LinkedIn",0.7
+"Natural ways to reduce inflammation",0.6
+"Troubleshooting dual monitor setup issues",0.3
+"Advanced techniques for street photography",0.9
+"Understanding dividend stock investing",0.7
+"Common mistakes in home workout routines",0.4
+"Tips for effective negotiation strategies",0.8
+"Resolving Netflix error codes",0.2
+"Mastering Thai cooking techniques",0.9
+"Guide to beekeeping for beginners",0.7
+"Troubleshooting microwave heating problems",0.3
+"Introduction to bird identification",0.8
+"Understanding retirement withdrawal strategies",0.6
+"Resolving lower back pain with yoga",0.5
+"Best practices for virtual team building",0.7
+"Natural remedies for better sleep",0.6
+"Troubleshooting wireless headphone connection",0.3
+"Advanced techniques for architectural photography",0.9
+"Understanding ETF investment strategies",0.7
+"Common mistakes in plant-based diets",0.4
+"Tips for effective content marketing",0.8
+"Resolving Zoom meeting connectivity issues",0.2
+"Mastering Mediterranean cooking techniques",0.9
+"Guide to raising backyard chickens",0.7
+"Troubleshooting oven temperature accuracy",0.3
+"Introduction to digital art creation",0.8
+"Understanding travel insurance coverage",0.6
+"Resolving eye strain from screen time",0.4
+"Best practices for personal branding",0.8
+"Natural ways to improve heart health",0.7
+"Troubleshooting home security camera setup",0.3
+"Advanced techniques for drone photography",0.9
+"Understanding Roth IRA benefits",0.7
+"Common mistakes in HIIT workouts",0.4
+"Tips for effective email marketing",0.8
+"Resolving Google Maps navigation errors",0.2
+"Mastering Korean cooking techniques",0.9
+"Guide to indoor plant propagation",0.8
+"Troubleshooting electric car charging issues",0.3
+"Introduction to acrylic painting techniques",0.8
+"Understanding homeowners insurance claims",0.5
+"Resolving shoulder pain with physical therapy",0.4
+"Best practices for Instagram marketing",0.7
+"Natural remedies for sinus congestion",0.6
+"Troubleshooting Roku streaming issues",0.3
+"Advanced techniques for astro photography",0.9
+"Understanding municipal bond investments",0.6
+"Common mistakes in meditation practice",0.4
+"Tips for effective video marketing",0.8
+"Resolving Apple ID authentication errors",0.2
+"Mastering Vietnamese cooking techniques",0.9
+"Guide to forest bathing for stress relief",0.8
+"Troubleshooting smart thermostat programming",0.3
+"Introduction to embroidery for beginners",0.8
+"Understanding auto insurance coverage options",0.5
+"Resolving neck pain with ergonomic changes",0.4
+"Best practices for TikTok marketing",0.7
+"Natural ways to lower cholesterol levels",0.6
+"Troubleshooting iPhone battery drain issues",0.3
+"Advanced techniques for underwater photography",0.9
+"Understanding REIT investment opportunities",0.7
+"Common mistakes in long-distance running",0.4
+"Tips for effective online teaching",0.8
+"Resolving Facebook account access issues",0.2
+"Mastering Spanish cooking techniques",0.9
+"Guide to butterfly gardening",0.8
+"Troubleshooting central heating system problems",0.3
+"Introduction to pottery for beginners",0.8
+"Understanding life insurance policy types",0.5
+"Resolving wrist pain from computer use",0.4
+"Best practices for Pinterest marketing",0.7
+"Natural remedies for acid reflux",0.6
+"Troubleshooting Android app crash issues",0.3
+"Advanced techniques for product photography",0.9
+"Understanding gold and silver investments",0.7
+"Common mistakes in flexibility training",0.4
+"Tips for effective podcast production",0.8
+"Resolving YouTube streaming errors",0.2
+"Mastering Middle Eastern cooking techniques",0.9
+"Guide to rainwater harvesting",0.8
+"Troubleshooting gas stove ignition problems",0.3
+"Introduction to calligraphy basics",0.8
+"Understanding travel rewards credit cards",0.7
+"Resolving hip pain with targeted exercises",0.5
+"Best practices for YouTube channel growth",0.8
+"Natural ways to detoxify your home",0.7
+"Troubleshooting VPN connection issues",0.3
+"Advanced techniques for newborn photography",0.9
+"Understanding peer-to-peer lending investments",0.6
+"Common mistakes in posture correction",0.4
+"Tips for effective remote presentations",0.8
+"Resolving Instagram login verification issues",0.2
+"Mastering Greek cooking techniques",0.9
+"Guide to native plant landscaping",0.8
+"Troubleshooting dryer heating problems",0.3
+"Introduction to knitting for beginners",0.8
+"Understanding balance transfer credit cards",0.6
+"Resolving plantar fasciitis with home remedies",0.4
+"Best practices for Facebook ad campaigns",0.7
+"Natural ways to treat eczema symptoms",0.6
+"Troubleshooting Windows blue screen errors",0.1
+"Advanced techniques for travel photography",0.9
+"Understanding commodities market investing",0.6
+"Common mistakes in mindfulness practice",0.4
+"Tips for effective video conference lighting",0.7
+"Resolving Twitter account suspension issues",0.2
+"Mastering Caribbean cooking techniques",0.9
+"Guide to wildlife friendly gardening",0.8
+"Troubleshooting water heater temperature problems",0.3
+"Introduction to weaving for beginners",0.8
+"Understanding tax-advantaged investment accounts",0.6
+"Resolving carpal tunnel with ergonomic adjustments",0.4
+"Best practices for Google Ads campaigns",0.7
+"Natural remedies for dandruff treatment",0.6
+"Troubleshooting Gmail sync issues",0.3
+"Advanced techniques for interior photography",0.9
+"Understanding venture capital investments",0.7
+"Common mistakes in kettlebell training",0.4
+"Tips for effective webinar hosting",0.8
+"Resolving Airbnb booking cancellation issues",0.2
+"Mastering Scandinavian cooking techniques",0.9
+"Guide to xeriscaping for dry climates",0.8
+"Troubleshooting solar panel efficiency problems",0.3
+"Introduction to woodworking basics",0.8
+"Understanding first-time homebuyer programs",0.7
+"Resolving tennis elbow with physical therapy",0.4
+"Best practices for email newsletter design",0.8
+"Natural ways to improve gut health",0.7
+"Troubleshooting Microsoft Office activation errors",0.2
+"Advanced techniques for concert photography",0.9
+"Understanding angel investing opportunities",0.7
+"Common mistakes in CrossFit training",0.4
+"Tips for effective SEO implementation",0.8
+"Resolving WhatsApp message delivery issues",0.2
+"Mastering Moroccan cooking techniques",0.9
+"Guide to vertical gardening in small spaces",0.8
+"Troubleshooting smart doorbell installation",0.3
+"Introduction to soap making basics",0.8
+"Understanding reverse mortgage considerations",0.5
+"Resolving sciatica pain with stretching exercises",0.4
+"Best practices for Twitter engagement",0.7
+"Natural ways to treat acne prone skin",0.6
+"Troubleshooting iCloud backup failures",0.2
+"Advanced techniques for black and white photography",0.9
+"Understanding options trading strategies",0.6
+"Common mistakes in triathlon training",0.4
+"Tips for effective remote team collaboration",0.8
+"Resolving Outlook email synchronization issues",0.2
+"Mastering Portuguese cooking techniques",0.9
+"Guide to attracting hummingbirds to your garden",0.8
+"Troubleshooting home theater audio issues",0.3
+"Introduction to cheese making for beginners",0.8
+"Understanding debt consolidation options",0.5
+"Resolving frozen shoulder with physical therapy",0.4
+"Best practices for influencer marketing",0.7
+"Natural ways to reduce stress hormones",0.7
+"Troubleshooting PlayStation network connection issues",0.2
+"Advanced techniques for sports photography",0.9
+"Understanding hedge fund investment strategies",0.6
+"Common mistakes in powerlifting form",0.4
+"Tips for effective virtual event planning",0.8
+"Resolving Instagram hashtag shadow banning",0.2
+"Mastering Lebanese cooking techniques",0.9
+"Guide to creating a butterfly garden",0.8
+"Troubleshooting tankless water heater problems",0.3
+"Introduction to bookbinding for beginners",0.8
+"Understanding healthcare flexible spending accounts",0.5
+"Resolving TMJ pain with jaw exercises",0.4
+"Best practices for LinkedIn company pages",0.7
+"Natural remedies for poison ivy treatment",0.6
+"Troubleshooting Xbox controller connectivity issues",0.2
+"Advanced techniques for pet photography",0.9
+"Understanding futures contract investing",0.6
+"Common mistakes in calisthenics training",0.4
+"Tips for effective work-life balance",0.8
+"Resolving Twitch streaming buffering issues",0.2
+"Mastering Turkish cooking techniques",0.9
+"Guide to organic pest management",0.8
+"Troubleshooting Internet router configuration",0.3
+"Introduction to candle making basics",0.8
+"Understanding health savings account benefits",0.7
+"Resolving rotator cuff pain with targeted exercises",0.4
+"Best practices for community management",0.8
+"Natural ways to repel mosquitoes",0.7
+"Troubleshooting AirPods pairing issues",0.2
+"Advanced techniques for real estate photography",0.9
+"Understanding cryptocurrency staking rewards",0.7
+"Common mistakes in pilates practice",0.4
+"10 Mouthwatering Italian Pasta Recipes",0.9
+"How to Perfect Your Sourdough Bread",0.8
+"Top NBA Playoffs Moments This Season",0.7
+"Understanding the Electoral College System",0.5
+"Travel Guide: Hidden Gems of Portugal",0.8
+"Common Symptoms of Seasonal Allergies",0.3
+"New Movie Releases: Summer Blockbuster Preview",0.7
+"Global Warming: Latest Research Findings",0.4
+"Budget-Friendly Meal Prep Ideas for Families",0.8
+"Presidential Debate Highlights and Analysis",0.5
+"How to Train for Your First Marathon",0.7
+"Restaurant Review: Gordon Ramsay's New Bistro",0.6
+"Stock Market Plunges Amid Economic Concerns",0.2
+"DIY Home Renovation: Kitchen Makeover Ideas",0.8
+"Best Streaming Shows to Binge This Weekend",0.7
+"Understanding Universal Healthcare Proposals",0.5
+"Farm-to-Table Cooking: Spring Vegetables Guide",0.9
+"NFL Draft Picks: Winners and Losers",0.6
+"Climate Change Protests Spread Globally",0.4
+"Top 5 European Destinations for Food Lovers",0.8
+"Treating Common Running Injuries at Home",0.4
+"Movie Review: Latest Marvel Superhero Film",0.7
+"Unemployment Rate Hits Record Low",0.8
+"Easy 30-Minute Weeknight Dinner Ideas",0.9
+"Local Election Results and Implications",0.5
+"How to Build Muscle: Complete Beginner's Guide",0.7
+"Food Festival Showcases Regional Cuisines",0.8
+"Tennis Grand Slam: Semifinal Match Recap",0.6
+"New Infrastructure Bill Details and Analysis",0.5
+"Budget Travel Tips for Southeast Asia",0.8
+"Managing Anxiety Through Mindfulness",0.6
+"TV Series Finale Disappoints Fans",0.3
+"Housing Market Shows Signs of Cooling",0.4
+"Traditional Mexican Cuisine: Beyond Tacos",0.8
+"Olympic Medal Count by Country",0.6
+"Supreme Court Ruling on Controversial Case",0.5
+"Hidden Hiking Trails in National Parks",0.9
+"Warning Signs of Vitamin D Deficiency",0.3
+"Concert Review: Pop Star's World Tour",0.7
+"Inflation Concerns Impact Consumer Spending",0.3
+"Homemade Ice Cream Recipes for Summer",0.9
+"Women's World Cup Final Match Analysis",0.7
+"Election Polling Data Shows Tight Race",0.5
+"Best All-Inclusive Caribbean Resorts",0.8
+"Preventing Heart Disease: Diet and Exercise",0.6
+"Celebrity Gossip: Hollywood Breakups",0.4
+"Cryptocurrency Values Continue to Fluctuate",0.5
+"Fall Harvest Recipes Using Pumpkin",0.8
+"Major League Baseball Playoff Predictions",0.7
+"Immigration Policy Changes Explained",0.5
+"Road Trip Ideas: Pacific Coast Highway",0.9
+"Understanding Autoimmune Conditions",0.4
+"Award Show Recap: Snubs and Surprises",0.6
+"Tech Company Layoffs Affect Thousands",0.2
+"Authentic Thai Curry Cooking Techniques",0.8
+"Formula 1 Racing: Driver Championship Standings",0.7
+"Midterm Elections: Key Races to Watch",0.5
+"Best European Cities for Winter Travel",0.8
+"Natural Remedies for Common Cold Symptoms",0.6
+"Book Review: Bestselling Fiction This Month",0.7
+"Economic Forecast Predicts Recession Concerns",0.3
+"Holiday Cookie Recipes from Around the World",0.9
+"College Football Rankings and Bowl Predictions",0.7
+"Healthcare Reform Bill Faces Opposition",0.4
+"Budget-Friendly Family Vacation Ideas",0.8
+"Mental Health Awareness Campaign Launches",0.6
+"Oscar-Nominated Films: Critics' Reviews",0.7
+"Job Market Growth in Green Energy Sector",0.7
+"Perfect Thanksgiving Turkey Cooking Guide",0.8
+"Soccer Transfer Window: Big Money Moves",0.6
+"Voting Rights Legislation Debate Intensifies",0.5
+"Sustainable Travel: Eco-Friendly Destinations",0.8
+"Mediterranean Diet Benefits for Longevity",0.7
+"Reality TV Show Controversy Erupts",0.3
+"Housing Affordability Crisis in Major Cities",0.2
+"French Pastry Techniques for Home Bakers",0.9
+"Golf Tournament Championship Sunday Recap",0.7
+"Foreign Policy Challenges in the Middle East",0.4
+"National Parks Visitor Guide for Families",0.8
+"COVID-19 Variant: What You Need to Know",0.3
+"Summer Blockbuster Movies Box Office Results",0.6
+"Wall Street Reacts to Federal Reserve Decision",0.5
+"Perfect Grilled Steak: Tips and Techniques",0.8
+"World Cup Qualifying Matches Results",0.7
+"Senate Passes Controversial Legislation",0.4
+"Affordable Luxury Hotels in Southeast Asia",0.8
+"Seasonal Allergy Relief: Natural Approaches",0.6
+"Music Festival Lineup Announced",0.8
+"Oil Prices Surge Amid Global Tensions",0.3
+"Vegetarian Comfort Food for Winter Months",0.8
+"Hockey Playoff Series Game 7 Thriller",0.7
+"Presidential Approval Rating Declines",0.3
+"Hidden Beach Destinations Without Crowds",0.9
+"Diabetes Management Through Diet Changes",0.6
+"Streaming Service Announces New Original Shows",0.7
+"Inflation Rate Hits 40-Year High",0.2
+"Authentic Italian Pizza Making at Home",0.9
+"Basketball All-Star Game Highlights",0.7
+"Environmental Regulations Facing Legal Challenges",0.4
+"Historical Sites Tour Guide: Ancient Rome",0.8
+"Childhood Obesity Prevention Strategies",0.5
+"Film Festival Winners and Standouts",0.7
+"Stock Market Rally Surprises Analysts",0.7
+"Slow Cooker Recipes for Busy Weeknights",0.8
+"Marathon World Record Broken by Underdog",0.9
+"Gun Control Legislation Debate Heats Up",0.4
+"Best Island Getaways for Peace and Quiet",0.9
+"Cancer Prevention: Latest Research Findings",0.6
+"Celebrity Wedding Photos Go Viral",0.7
+"Federal Budget Deficit Concerns Grow",0.3
+"Homemade Pasta: Step-by-Step Guide",0.8
+"Gymnastics Championship Stunning Performances",0.8
+"Local Government Corruption Scandal Exposed",0.1
+"Family-Friendly European Vacation Itineraries",0.8
+"Stress Management Techniques That Work",0.7
+"Television Reboot Disappoints Original Fans",0.3
+"Housing Market Predictions for Next Year",0.5
+"Asian Street Food Recipes to Try at Home",0.8
+"Cycling Tour Championship Final Stage",0.7
+"Campaign Finance Reform Proposals Analyzed",0.5
+"Hidden Gems: Underrated Travel Destinations",0.9
+"Heart Health: Warning Signs to Never Ignore",0.4
+"Music Album Reviews: This Month's Releases",0.6
+"Economic Impact of Supply Chain Disruptions",0.3
+"Classic Chocolate Cake Recipes Compared",0.8
+"Winter Olympics Medal Count and Highlights",0.7
+"Political Protests Spread to Multiple Cities",0.4
+"Budget European Cities Worth Visiting",0.8
+"Sleep Improvement Tips from Experts",0.7
+"Movie Sequels That Outperformed Originals",0.6
+"Retirement Savings Crisis Looms for Millennials",0.3
+"BBQ Techniques from Around the World",0.8
+"NFL Quarterback Controversy Analysis",0.5
+"Border Security Policy Changes Implemented",0.4
+"Road Trip Planning Tips for Families",0.8
+"Childhood Vaccination Schedule Explained",0.6
+"Emmy Awards: Complete Winners List",0.7
+"Consumer Debt Levels Reach Record High",0.2
+"Authentic Indian Curry Mastery Guide",0.8
+"Baseball Hall of Fame Inductees Announced",0.7
+"Tax Reform Proposal Impact Analysis",0.5
+"Most Photogenic European Small Towns",0.9
+"Managing Chronic Pain: New Approaches",0.5
+"Streaming Music Services Compared",0.6
+"Retail Store Closures Hit Shopping Malls",0.2
+"Seasonal Fruit Dessert Recipes",0.9
+"Volleyball Championship Match Recap",0.7
+"Education Policy Changes Face Backlash",0.4
+"Cruise Vacation Pros and Cons Guide",0.6
+"Fitness Trends That Actually Work",0.7
+"Hollywood Studio Merger Creates Concerns",0.4
+"Real Estate Investment Market Cooling",0.5
+"Japanese Home Cooking Essentials",0.8
+"Surfing Championship Wave Conditions",0.6
+"Minimum Wage Increase Debate Continues",0.5
+"National Parks Photography Guide",0.9
+"Nutrition Myths Debunked by Experts",0.7
+"Broadway Show Reviews This Season",0.6
+"Tech Company Antitrust Investigation",0.3
+"Comfort Food Recipes from Grandma's Kitchen",0.9
+"Rugby Tournament Final Match Analysis",0.7
+"Climate Change Policy International Summit",0.5
+"Adventure Travel Destinations for Thrill Seekers",0.8
+"Preventative Health Screenings by Age",0.6
+"Classic Novel Adapted for Television",0.7
+"Economic Recovery Shows Uneven Progress",0.4
+"Artisanal Bread Baking Techniques",0.8
+"Women's Tennis Tournament Upset Victory",0.7
+"Social Media Regulation Proposals Examined",0.5
+"Off-the-Beaten-Path European Destinations",0.9
+"Parenting Advice for Toddler Tantrums",0.6
+"Documentary Film Festival Winners",0.7
+"Job Market Faces Automation Challenges",0.4
+"Summer Grilling Recipes and Tips",0.8
+"Extreme Sports Championship Highlights",0.7
+"Voting System Security Concerns Raised",0.3
+"Budget Travel Hacks for Luxury Experiences",0.8
+"Sleep Disorders: Symptoms and Treatments",0.5
+"Video Game Releases This Month Reviewed",0.7
+"Inflation Impact on Grocery Prices",0.2
+"Regional BBQ Styles Across America",0.8
+"Horse Racing Triple Crown Coverage",0.7
+"Campaign Trail Gaffes Go Viral",0.4
+"Family-Friendly Beach Vacation Spots",0.9
+"Common Fitness Injuries and Prevention",0.5
+"Streaming TV Price Increases Announced",0.3
+"Housing Affordability Index Hits New Low",0.2
+"French Wine Region Tour Guide",0.9
+"Boxing Championship Fight Controversy",0.5
+"Political Candidate Background Investigation",0.4
+"Mountain Hiking Trail Difficulty Ratings",0.7
+"Children's Mental Health Resources Guide",0.6
+"Music Concert Tour Dates Announced",0.8
+"Stock Market Correction Worries Investors",0.3
+"Healthy Lunch Ideas for Work",0.8
+"Cricket World Cup Match Analysis",0.7
+"United Nations Climate Resolution Details",0.5
+"Hidden Foodie Destinations in Europe",0.9
+"Pandemic's Long-Term Health Effects Studied",0.4
+"Film Director's Cut Finally Released",0.7
+"Manufacturing Jobs Decline in Rust Belt",0.2
+"Seafood Cooking Techniques Mastery",0.8
+"Winter Olympic Sports Explained",0.6
+"Controversial Law Signed by Governor",0.4
+"Affordable Family Vacation Destinations",0.8
+"Healthy Aging: Latest Research Findings",0.7
+"Video Streaming Services Comparison",0.6
+"Market Volatility Concerns Investors",0.3
+"Traditional Christmas Cookies Around the World",0.9
+"Soccer League Championship Final",0.7
+"Presidential Primary Debate Schedule",0.5
+"Cultural Tourism: Immersive Experiences",0.8
+"Preventative Health Screenings Explained",0.6
+"Summer Festival Lineup Announcement",0.8
+"Economic Indicators Suggest Slowdown",0.3
+"Authentic Sushi Making at Home",0.8
+"Motorsport Racing Accident Investigation",0.4
+"Healthcare Policy Changes Proposed",0.5
+"Historical European Castle Tour Guide",0.9
+"Weight Management: Beyond Dieting",0.6
+"Upcoming Movie Releases Delayed",0.4
+"Central Bank Interest Rate Decision Impact",0.5
+"Regional Italian Pasta Dishes",0.9
+"High School Football Championship Upset",0.7
+"Election Campaign Finance Reports Analyzed",0.5
+"Safari Vacation Planning Guide",0.8
+"Children's Development Milestones Explained",0.6
+"Celebrity Charity Fundraiser Success",0.7
+"Small Business Struggles Amid Inflation",0.3
+"Perfect Pie Crust Techniques",0.8
+"Ice Hockey Tournament Dramatic Finish",0.7
+"Political Scandal Causes Resignation",0.2
+"Hidden Gem Restaurants in Major Cities",0.9
+"Heart-Healthy Diet Recommendations",0.7
+"Music Industry Copyright Lawsuit",0.4
+"Retirement Savings Strategies for Millennials",0.6
+"Fusion Cuisine Trends and Recipes",0.8
+"Marathon Training Schedule for Beginners",0.7
+"Legislation Stalled in Committee",0.3
+"Family-Friendly Museums Around the World",0.8
+"Seasonal Affective Disorder Management",0.5
+"Major Studio Film Production Canceled",0.3
+"Consumer Confidence Index Declines",0.3
+"Authentic Mexican Street Tacos Recipe",0.9
+"Basketball Referee Controversial Call",0.4
+"Voter Registration Drive Success",0.7
+"Best Beaches for Families with Children",0.8
+"Telehealth Services Expansion Benefits",0.7
+"Reality Competition Show Winner Revealed",0.6
+"Mortgage Interest Rates Continue to Rise",0.3
+"Holiday Feast Menu Planning Guide",0.8
+"Cycling Safety Tips for Urban Riders",0.7
+"Congressional Hearing on Tech Regulation",0.5
+"Scenic Road Trips in the American Southwest",0.9
+"Childhood Asthma Management Strategies",0.6
+"Art Exhibition Opening Reviews",0.7
+"Trade Deficit Widens to Record Level",0.3
+"Homemade Pizza Techniques and Recipes",0.8
+"Wrestling Championship Comeback Story",0.7
+"Campaign Promises Fact Check Analysis",0.4
+"Budget-Friendly European Hostels Guide",0.8
+"Gut Health and Microbiome Research",0.6
+"Science Fiction TV Series Premiere",0.7
+"Layoffs Announced at Major Retailer",0.2
+"Southern Comfort Food Classic Recipes",0.9
+"Paralympic Games Medal Ceremonies",0.8
+"Judicial Nomination Controversy Explained",0.4
+"Family Travel Tips for Long Flights",0.7
+"Vaccine Development Progress Report",0.6
+"Comic Book Adaptation Hits Streaming",0.7
+"Housing Market Inventory Shortage Persists",0.4
+"Farm-Fresh Seasonal Eating Guide",0.9
+"Track and Field Championship Results",0.7
+"Redistricting Maps Face Legal Challenges",0.4
+"Budget Travel in Expensive Destinations",0.8
+"Mental Health Resources for Teenagers",0.6
+"Independent Film Festival Highlights",0.7
+"Consumer Price Index Jumps Higher",0.2
+"Authentic Spanish Paella Recipe",0.9
+"College Basketball Tournament Upsets",0.7
+"Environmental Protection Regulations Change",0.5
+"International Travel COVID Requirements",0.5
+"Women's Health Screening Guidelines",0.6
+"Superhero Movie Universe Expansion",0.7
+"Agricultural Commodity Prices Spike",0.4
+"Summer Cocktail Recipes for Entertaining",0.8
+"Extreme Sports Safety Concerns",0.4
+"Election Polling Methodology Questioned",0.5
+"Underrated Beach Towns Without Crowds",0.9
+"Childhood Nutrition Guidelines Updated",0.6
+"Music Festival Canceled Due to Weather",0.3
+"Gas Prices Reach Record High",0.1
+"Mediterranean Diet Meal Planning",0.8
+"Auto Racing Championship Final Results",0.7
+"Congressional Ethics Investigation Launched",0.2
+"International Street Food Tour Guide",0.9
+"Fitness Program Comparison for Beginners",0.7
+"Streaming TV Show Renewed for Next Season",0.8
+"Real Estate Market Trends Analysis",0.5
+"Classic Comfort Food Reinvented",0.8
+"Sports Injury Rehabilitation Advances",0.6
+"Political Dynasty Family Tensions",0.4
+"Solo Travel Safety Tips for Women",0.7
+"Alternative Medicine Research Findings",0.5
+"Celebrity Divorce Settlement Details",0.3
+"Student Loan Forgiveness Program Changes",0.6
+"Vegan Baking Substitution Guide",0.8
+"Summer Olympics Opening Ceremony",0.7
+"Privacy Legislation International Comparison",0.5
+"Tropical Vacation Destination Guide",0.9
+"Childhood Learning Disability Resources",0.6
+"Music Industry Streaming Revenue Report",0.5
+"Market Analysis for Small Investors",0.6
+"Slow Food Movement Restaurants",0.8
+"Youth Sports Coaching Best Practices",0.7
+"Voting Rights Restoration Initiative",0.6
+"RV Travel Tips for Beginners",0.8
+"Preventative Health Measures Effectiveness",0.7
+"Film Director Retrospective Analysis",0.6
+"Corporate Tax Policy Reform Debate",0.5
+"Authentic Chinese Regional Cuisine",0.9
+"Winter Sports Safety Guidelines",0.6
+"Local Election Campaign Finance Records",0.4
+"Educational Travel with Children",0.8
+"Post-Surgery Recovery Nutrition Guide",0.7
+"Music Licensing Changes for Streaming",0.5
+"Housing Development Project Controversy",0.4
+"Holiday Side Dish Recipe Collection",0.8
+"Professional Athlete Retirement Announcement",0.5
+"Immigration Policy Economic Impact Study",0.5
+"Adventure Travel Safety Precautions",0.7
+"Holistic Wellness Retreat Reviews",0.8
+"Television Spinoff Show Disappoints",0.3
+"Economic Stimulus Package Effects",0.6
+"Artisanal Chocolate Making Process",0.9
+"Cycling Tour Doping Controversy",0.2
+"Political Candidate Policy Positions Compared",0.5
+"Armed Robbery at Downtown Bank: Suspects Flee Scene",0.1
+"Fatal Shooting in Residential Neighborhood Investigation",0.1
+"Multiple Stabbings at Nightclub: Police Seek Witnesses",0.1
+"YouTube's Most Inspiring Animal Rescue Videos",0.9
+"TikTok Dance Challenge Goes Viral Worldwide",0.8
+"Instagram Influencer Caught Faking Luxury Lifestyle",0.2
+"Mass Shooting at Shopping Mall: Multiple Casualties",0.1
+"Car Bomb Explosion in City Center: Terrorist Link Suspected",0.1
+"Uplifting Video: Strangers Help Homeless Man Start Business",0.9
+"Twitter Thread Exposes Corporate Fraud Scandal",0.2
+"Viral YouTube Prank Goes Wrong: Legal Charges Filed",0.2
+"Social Media Post Saves Missing Child's Life",0.9
+"Serial Killer Arrested After Decade-Long Investigation",0.2
+"Home Invasion Robbery Leaves Family Traumatized",0.1
+"Motivational Speaker's TED Talk Breaks Viewing Records",0.9
+"Facebook Group Raises Millions for Natural Disaster Victims",0.9
+"Undercover Video Reveals Animal Abuse at Factory Farm",0.1
+"Heartwarming YouTube Series: Elderly Learn Technology",0.9
+"Gang-Related Drive-By Shooting Kills Innocent Bystander",0.1
+"Police Bodycam Footage Shows Excessive Force Incident",0.2
+"Viral Social Media Challenge Raises Cancer Awareness",0.8
+"YouTube Prankster Arrested for Dangerous Public Stunts",0.2
+"Twitter Debate Between Scientists Clarifies Vaccine Facts",0.7
+"Convenience Store Armed Robbery Caught on Security Camera",0.1
+"Child Abduction Attempt Thwarted by Alert Bystander",0.3
+"Inspiring Instagram Account Features Adoption Stories",0.9
+"Murder-Suicide Investigation in Suburban Neighborhood",0.1
+"Facebook Post Reunites Family After 30 Years Apart",0.9
+"Undercover Sting Operation Busts Drug Trafficking Ring",0.3
+"YouTube Cooking Channel Reaches 10 Million Subscribers",0.8
+"Domestic Violence Incident Ends in Tragic Death",0.1
+"TikTok Fitness Challenge Promotes Healthy Lifestyle",0.8
+"Prison Riot Leaves Guards and Inmates Injured",0.1
+"Viral Video Captures Random Act of Kindness",0.9
+"Twitter Whistleblower Reveals Government Corruption",0.3
+"Arson Investigation: Historic Building Destroyed",0.1
+"Instagram Photos Help Identify Missing Persons",0.7
+"School Shooting Threat Posted on Social Media",0.1
+"YouTube Travel Vlogger Discovers Hidden Village",0.8
+"Hate Crime Attack Leaves Victim Hospitalized",0.1
+"Reddit Thread Solves Cold Case Murder Mystery",0.7
+"Kidnapping Victim Rescued After Ransom Demand",0.3
+"TikTok Video Saves Teen from Abusive Situation",0.7
+"Violent Protests Turn Deadly in Capital City",0.1
+"Facebook Fundraiser Builds School in Rural Community",0.9
+"Terrorist Attack Foiled by Intelligence Agency",0.3
+"Instagram Story Highlights Mental Health Recovery Journey",0.8
+"Carjacking Spree Terrorizes Suburban Community",0.1
+"YouTube Documentary Exposes Environmental Destruction",0.3
+"Cyberbullying Leads to Teenager's Suicide",0.1
+"Viral TikTok Recipe Becomes Restaurant Sensation",0.8
+"Police Officer Shot During Traffic Stop",0.1
+"Social Media Campaign Finds Bone Marrow Donor",0.9
+"Assassination Attempt on Political Figure",0.1
+"YouTube Makeup Tutorial Changes Beauty Industry Standards",0.7
+"Human Trafficking Ring Busted in Major City",0.2
+"Twitter Thread Explains Complex Scientific Concept",0.7
+"Child Abuse Investigation at Daycare Center",0.1
+"Facebook Live Captures Natural Disaster Aftermath",0.3
+"Gun Violence Spike in Urban Neighborhoods",0.1
+"Inspiring Instagram Athlete Overcomes Paralysis",0.9
+"Pharmacy Armed Robbery Caught on Security Footage",0.1
+"TikTok Trend Promotes Classroom Vandalism",0.2
+"Heartwarming YouTube Reunion: Soldier Surprises Family",0.9
+"Corruption Scandal Implicates City Officials",0.2
+"Twitter Campaign Leads to Important Policy Change",0.7
+"Fatal Hit-and-Run Driver Still at Large",0.1
+"Viral Instagram Charity Challenge Raises Millions",0.9
+"Explosive Device Found Near Government Building",0.1
+"YouTube Channel Teaching Sign Language Goes Viral",0.8
+"Gang Violence Claims Lives of Innocent Children",0.1
+"Reddit Post Saves Person from Carbon Monoxide Poisoning",0.8
+"Home Burglary Ring Targets Elderly Residents",0.1
+"Social Media Star Donates Entire Fortune to Charity",0.9
+"Prison Break Leads to Massive Manhunt",0.2
+"TikTok Educational Series Makes Learning Fun",0.8
+"Deadly Fire in Apartment Complex: Suspected Arson",0.1
+"YouTube Hero Rescues Animals from Natural Disaster",0.9
+"Shooting Spree at Public Event: Multiple Fatalities",0.1
+"Twitter Thread Documents Historic Archaeological Find",0.8
+"Violent Assault in Parking Garage Captured on Video",0.1
+"Instagram Challenge Promotes Body Positivity",0.8
+"Bomb Threat Evacuates Shopping Center",0.2
+"Facebook Group Helps Homeless Find Employment",0.9
+"Deadly Street Racing Accident Claims Lives",0.1
+"YouTube Channel Raises Awareness for Rare Diseases",0.7
+"Hostage Situation at Local Bank Ends in Tragedy",0.1
+"TikTok Star Raises Millions for Children's Hospital",0.9
+"Gruesome Murder Scene Discovered by Hiker",0.1
+"Social Media Post Prevents School Shooting",0.6
+"Jewelry Store Heist: Millions in Diamonds Stolen",0.2
+"Inspiring YouTube Series: Veterans Learning New Skills",0.9
+"Workplace Shooting Leaves Multiple Employees Dead",0.1
+"Twitter Campaign Finding Homes for Shelter Animals",0.9
+"Sexual Assault Investigation at College Campus",0.1
+"Viral Instagram Photos Help Environmental Conservation",0.8
+"Armed Carjacking Caught on Dashcam Footage",0.1
+"Facebook Memorial Page Honors Accident Victims",0.5
+"Child Trafficking Ring Uncovered by Authorities",0.1
+"YouTube DIY Channel Helps Homeowners Save Money",0.8
+"Gang-Related Machete Attack in City Park",0.1
+"TikTok Doctor Makes Medical Information Accessible",0.8
+"Violent Home Invasion Leaves Family Injured",0.1
+"Social Media Movement Supports Local Small Businesses",0.9
+"Fatal Drunk Driving Accident Claims Three Lives",0.1
+"Reddit Users Identify Stolen Artwork in Museum",0.7
+"Subway Platform Pushing Incident Caught on Camera",0.1
+"Instagram Chef Teaches Cooking to Underprivileged Youth",0.9
+"Extortion Scheme Targeting Local Businesses",0.1
+"YouTube Channel Documents Homeless Crisis Solutions",0.7
+"Domestic Terrorism Plot Foiled by FBI",0.2
+"TikTok Video Raises Awareness for Disability Rights",0.8
+"Multi-Vehicle Fatal Crash Closes Highway",0.1
+"Twitter Campaign Pressures Company to Reduce Pollution",0.7
+"Stalking Victim Speaks Out About Experience",0.3
+"Facebook Group Reunites Lost Pets with Owners",0.9
+"Courthouse Shooting During High-Profile Trial",0.1
+"Viral YouTube Science Experiments for Children",0.8
+"Brutal Attack Leaves Victim in Critical Condition",0.1
+"Instagram Story Highlights Foster Care Success Stories",0.9
+"School Bus Accident Injures Multiple Students",0.2
+"Social Media Trend Raises Awareness for Rare Disease",0.8
+"Armed Guard Killed During Robbery Attempt",0.1
+"Reddit Thread Helps Identify Mystery Historical Photo",0.7
+"Violent Riot Erupts Following Sports Event",0.1
+"TikTok Stars Raise Money for Disaster Relief",0.9
+"Crime Scene Photos Leaked on Social Media",0.1
+"YouTube Family Adopts Children from War-Torn Country",0.9
+"Police Chase Ends in Fatal Crash",0.1
+"Twitter Account Tracks Wildlife Recovery Efforts",0.8
+"Revenge Killing Shocks Quiet Community",0.1
+"Facebook Live Captures Heroic Water Rescue",0.8
+"Child Endangerment Investigation at Local School",0.1
+"Viral Instagram Art Project Unites Global Community",0.9
+"Gas Station Robbery Goes Wrong: Clerk Injured",0.1
+"YouTube Series Teaches Financial Literacy to Teens",0.8
+"Woman Attacked While Jogging on Popular Trail",0.1
+"TikTok Challenge Raises Money for Homeless Shelters",0.9
+"Neighborhood Drug Bust: Dealer Had Armed Guards",0.2
+"Social Media Manhunt Helps Catch Fugitive",0.6
+"Construction Site Accident Leaves Worker Dead",0.1
+"Reddit Community Helps Veteran Find Housing",0.9
+"Celebrity Home Burglarized: Millions in Losses",0.2
+"Instagram Page Documents Cancer Treatment Journey",0.6
+"Deadly Police Shooting Sparks Investigation",0.2
+"YouTube Meditation Channel Helps Anxiety Sufferers",0.8
+"Brutal Bar Fight Leaves Man in Coma",0.1
+"Facebook Group Supports Parents of Special Needs Children",0.9
+"Organized Retail Theft Ring Targets Department Stores",0.2
+"TikTok Chef Creates Meals from Food Bank Ingredients",0.8
+"Elderly Victim Targeted in Telephone Scam",0.1
+"Twitter Thread Documents Wildlife Conservation Efforts",0.8
+"School Violence Incident Caught on Student's Phone",0.1
+"Viral Social Media Post Finds Kidney Donor",0.9
+"Casino Robbery Suspect Arrested After Manhunt",0.2
+"YouTube Channel for Children with Learning Disabilities",0.8
+"Teenager Missing After Meeting Online Contact",0.1
+"Instagram Campaign Cleans Beach Pollution",0.8
+"Attempted Assassination of Foreign Diplomat",0.1
+"Facebook Post Helps Solve Decades-Old Cold Case",0.7
+"Fatal Boating Accident Investigation Underway",0.1
+"TikTok Star Raises Awareness for Mental Health",0.8
+"Witness Intimidation in High-Profile Court Case",0.1
+"Reddit Thread Helps Person Escape Abusive Relationship",0.7
+"Violent Protest Clashes with Police Force",0.1
+"YouTube Family Builds Homes for Disaster Victims",0.9
+"Smuggling Operation Discovered at Border Crossing",0.2
+"Social Media Account Tracks Missing Indigenous Women",0.6
+"Church Shooting Leaves Community in Mourning",0.1
+"Instagram Trend Highlights Environmental Conservation",0.8
+"Kidnapped Child Found Safe After Amber Alert",0.6
+"TikTok Raises Awareness of Veteran Homelessness",0.7
+"Explosive Device Detonated in Residential Area",0.1
+"Twitter Campaign Helps Reunite Refugee Families",0.9
+"Brutal Dog Fighting Ring Busted by Police",0.1
+"Facebook Video Shows Heroic Rescue During Flood",0.8
+"Home Invasion Suspect Shot by Homeowner",0.2
+"YouTube Channel Documents Recovery from Addiction",0.7
+"Car Theft Ring Targets Luxury Vehicles",0.2
+"Social Media Post Goes Viral, Saves Small Business",0.9
+"Pedestrian Killed in Hit-and-Run Accident",0.1
+"Reddit Community Donates Supplies to Underfunded School",0.9
+"Knife Attack at Shopping Center: Multiple Injuries",0.1
+"Instagram Challenge Raises Funds for Wildlife Refuge",0.8
+"Child Predator Arrested in Online Sting Operation",0.3
+"TikTok Star Uses Platform to Support Local Charities",0.9
+"Gang Retaliation Shooting: Innocent Victim Killed",0.1
+"YouTube Documentary Exposes Housing Discrimination",0.6
+"Jewelry Heist Caught on Security Cameras",0.2
+"Twitter Activism Changes Corporate Environmental Policy",0.7
+"Sex Trafficking Victims Rescued in Multi-State Operation",0.4
+"Facebook Campaign Finds Homes for Shelter Pets",0.9
+"Fatal Stabbing Outside Nightclub: Suspect Flees",0.1
+"Viral Instagram Post Helps Solve Missing Person Case",0.7
+"Suicide Bomber Attacks Public Transportation",0.1
+"YouTube Series Teaches Self-Defense for Women",0.7
+"Fentanyl Overdose Crisis in College Community",0.1
+"TikTok Challenge Raises Money for Medical Research",0.9
+"Home Invasion Robbery Turns Deadly",0.1
+"Reddit Thread Helps Identify Stolen Archaeological Artifacts",0.6
+"Attempted Child Abduction at Public Park",0.1
+"Social Media Campaign Supports Frontline Workers",0.9
+"Police Officers Shot During Welfare Check",0.1
+"Instagram Account Showcases Sustainable Living Practices",0.8
+"Violent Hate Crime Against Minority Community",0.1
+"Facebook Live Captures Birth of Endangered Species",0.8
+"Serial Burglar Targeting Elderly Homeowners",0.1
+"YouTube Tutorial Helps People Learn New Job Skills",0.8
+"Fatal Drunk Driving Crash: Family of Four Killed",0.1
+"TikTok Star Donates Proceeds to Children's Hospital",0.9
+"Sexual Harassment Scandal Rocks Major Corporation",0.1
+"Twitter Thread Educates on Climate Change Solutions",0.7
+"Armed Robber Shot by Store Clerk",0.2
+"How to fix TypeError in Python",0.2
+"Understanding datetime in pandas",0.5
+"Best practices for time series analysis",0.7
+"Error: BrowserHistorySelector.get_important_pages",0.1
+"Python datetime format explained",0.6
+"Troubleshooting pandas datetime issues",0.3
+"Introduction to time series with pandas",0.5
+"Common mistakes with Python datetime",0.4
+"Optimizing pandas for large datasets",0.8
+"TypeError: get() takes 2 positional arguments",0.2
+"Mastering data visualization with matplotlib",0.9
+"Deep dive into Python's asynchronous programming",0.4
+"Breaking: Political tensions rise in Middle East",0.2
+"Top 10 movies of 2024 so far",0.8
+"Social media platform faces privacy controversy",0.1
+"Mass shooting reported at local shopping center",0.05
+"New climate change policy receives bipartisan support",0.7
+"Celebrity divorce trends on social media",0.3
+"Acclaimed director announces retirement",0.4
+"Economic recession fears grow amid market volatility",0.1
+"Viral dance challenge raises safety concerns",0.2
+"Review: Latest superhero movie disappoints fans",0.3
+"Tech CEO steps down following ethical misconduct",0.1
+"Global pandemic response: What we've learned",0.5
+"Influencer marketing statistics for 2025",0.6
+"Domestic violence rates increase during holiday season",0.05
+"Election polling results show surprising shift",0.4
+"School shooting survivor shares powerful testimony",0.3
+"Media literacy guide for identifying fake news",0.7
+"Streaming service increases subscription prices",0.2
+"How social media algorithms shape political views",0.4
+"Award-winning documentary exposes corruption",0.6
+"Hate crimes statistics reveal troubling trends",0.1
+"Stock market hits record high amid economic recovery",0.9
+"Dating app security vulnerabilities exposed",0.2
+"Police brutality protest turns violent overnight",0.1
+"Blockbuster sequel breaks opening weekend records",0.8
+"Mental health crisis among teenagers linked to social media",0.1
+"Breakthrough cancer treatment shows promising results",0.9
+"Political candidate's controversial statements spark debate",0.3
+"Celebrity overdose highlights addiction epidemic",0.1
+"Social media platform introduces new privacy features",0.7
+"Devastating wildfire destroys hundreds of homes",0.05
+"Film industry struggles with diversity representation",0.3
+"Medical misinformation spreads across video platforms",0.2
+"Cryptocurrency market crash wipes billions in value",0.1
+"Entertainment industry strike enters second month",0.2
+"Mass surveillance technology raises ethical questions",0.3
+"Historic peace agreement signed after decades of conflict",0.9
+"Viral conspiracy theory debunked by experts",0.6
+"Massive earthquake strikes Tokyo, thousands feared dead",0.05
+"Tech CEO resigns amid fraud allegations",0.2
+"Violent protests erupt over immigration policy",0.1
+"Stock market crashes, wiping out billions",0.1
+"New smartphone receives mixed reviews from critics",0.5
+"Experts divided on climate change solutions",0.5
+"Government announces tax reform, impact unclear",0.5
+"Scientists discover cure for Alzheimer's disease",0.9
+"Athlete wins gold medal in 100m sprint",0.8
+"Community comes together to rebuild after hurricane",0.7
+"Oil spill devastates marine ecosystem in Gulf",0.1
+"Celebrity divorce sparks social media frenzy",0.3
+"New gaming console sells out in minutes",0.8
+"Factory explosion leaves dozens injured",0.05
+"Scientists develop eco-friendly plastic alternative",0.9
+"Rising crime rates alarm suburban residents",0.2
+"Tech giant fined billions for antitrust violations",0.1
+"International summit ends with climate action plan",0.7
+"Food shortage fears grow as supply chain falters",0.2
+"Underdog singer wins global talent competition",0.9
+"Hackers leak sensitive government documents",0.1
+"New study highlights benefits of remote work",0.7
+"Tornado devastates small town overnight",0.05
+"Opinion: Social media bans stifle free speech",0.4
+"Breakthrough in fusion energy research announced",0.9
+"Corporate layoffs spark employee protests",0.2
+"Viral pet rescue story warms hearts online",0.8
+"Deadly virus outbreak reported in rural areas",0.1
+"New law protects endangered species habitats",0.7
+"Sports league faces match-fixing scandal",0.3
+"Analysis: Economy poised for steady growth",0.8
+"Flooding displaces thousands in urban centers",0.1
+"Indie film wins top prize at festival",0.8
+"Privacy lawsuit targets popular messaging app",0.2
+"Global literacy campaign reaches millions",0.9
+"Air pollution levels hit record highs in cities",0.1
+"Tweet: New park opening is a win for the community",0.7
+"Terror attack disrupts national holiday celebrations",0.05
+"Review: Latest smartphone lacks innovation",0.3
+"Charity concert raises millions for disaster relief",0.8
+"Controversial book ban ignites public debate",0.4
+"Cybersecurity flaw found in voting machines",0.2
+"Historic museum exhibit celebrates cultural heritage",0.7
+"Retail chain files for bankruptcy amid losses",0.2
+"New vaccine rollout exceeds expectations",0.9
+"Prolonged drought threatens agricultural output",0.1
+"Crowd-funded invention breaks sales records",0.8
+"Violent unrest follows disputed election results",0.1
+"Scientists confirm existence of habitable exoplanet",0.9
+"Celebrity overdose highlights addiction epidemic",0.1
+"New Study Shows Benefits of Mediterranean Diet",0.8
+"Fatal Car Accident on Interstate Kills Family of Four",0.05
+"Scientists Discover New Species in Amazon Rainforest",0.9
+"War Escalates as Airstrikes Target Civilian Areas",0.05
+"Local Community Raises Funds for Children's Hospital",0.9
+"Massive Data Breach Exposes Millions of User Accounts",0.1
+"Breakthrough Cancer Treatment Shows Promise in Trials",0.9
+"Gang Violence Claims Lives of Innocent Bystanders",0.05
+"Unemployment Rate Drops to Record Low",0.8
+"School Lockdown After Threats of Violence",0.1
+"Renewable Energy Project Creates Thousands of Jobs",0.8
+"Prison Riot Leaves Guards and Inmates Injured",0.1
+"Virtual Reality Therapy Helps PTSD Patients",0.8
+"Toxic Chemical Spill Contaminates Local Water Supply",0.1
+"Historic Preservation Project Saves Ancient Site",0.8
+"Airline Safety Violations Lead to Fatal Crash",0.05
+"AI Algorithm Predicts Disease Outbreaks",0.7
+"Teen Suicide Rate Alarms Mental Health Experts",0.1
+"Volunteer Group Feeds Homeless Population",0.9
+"Cyber Attack Shuts Down Hospital Systems",0.1
+"Election Results Show Record Voter Turnout",0.7
+"Terrorist Attack at Shopping Mall Leaves Dozens Dead",0.05
+"Community Garden Project Transforms Urban Space",0.8
+"Investigation Reveals Corporate Tax Fraud",0.2
+"New Education Initiative Improves Literacy Rates",0.8
+"Human Trafficking Ring Discovered in Suburban Area",0.1
+"Historic Peace Treaty Ends Decades-Long Conflict",0.9
+"Deadly Heatwave Claims Lives of Vulnerable Residents",0.1
+"Animal Rescue Saves Hundreds After Natural Disaster",0.8
+"Serial Killer Apprehended After Years of Investigation",0.3
+"Vaccine Distribution Reaches Remote Communities",0.8
+"Police Brutality Protest Turns Deadly",0.1
+"Space Mission Discovers Evidence of Ancient Life",0.9
+"Corruption Scandal Rocks Local Government",0.1
+"Revolutionary Prosthetic Limb Helps Disabled Athletes",0.9
+"Child Abuse Case Shocks Small Town Community",0.05
+"Global Conference Addresses Climate Change Solutions",0.7
+"Opioid Crisis Devastates Rural Communities",0.1
+"Literacy Program Helps Immigrants Learn English",0.8
+"Fatal Building Collapse Due to Safety Violations",0.05
+"Wildlife Conservation Effort Saves Endangered Species",0.9
+"Domestic Violence Shelter Faces Funding Cuts",0.1
+"Robot-Assisted Surgery Improves Patient Outcomes",0.8
+"Racial Discrimination Lawsuit Against Major Corporation",0.2
+"Community College Offers Free Tuition Program",0.9
+"Chemical Plant Explosion Forces Mass Evacuation",0.1
+"Renewable Energy Milestone: City Runs on 100% Clean Power",0.9
+"Controversial Police Shooting Sparks Civil Unrest",0.1
+"New Drug Shows Promise for Alzheimer's Treatment",0.8
+"Sexual Assault on College Campus Raises Safety Concerns",0.1
+"Rescue Dogs Help Veterans with PTSD",0.9
+"Elderly Care Facility Investigation Reveals Neglect",0.1
+"Space Telescope Captures Images of Distant Galaxy",0.8
+"Murder-Suicide Leaves Children Orphaned",0.05
+"Volunteer Medical Team Provides Care in Remote Areas",0.9
+"Financial Fraud Targets Senior Citizens",0.1
+"Revolutionary Urban Planning Reduces Traffic Congestion",0.7
+"Fatal Boating Accident During Holiday Weekend",0.1
+"Successful Organ Transplant Saves Young Child",0.9
+"Gun Violence in Schools: A Growing Epidemic",0.1
+"Historic Art Restoration Reveals Hidden Masterpiece",0.8
+"Child Trafficking Investigation Leads to Multiple Arrests",0.2
+"Innovative Farming Techniques Combat Food Insecurity",0.8
+"Plane Crash Investigation Reveals Mechanical Failure",0.1
+"Homeless Shelter Opens During Record Cold Snap",0.7
+"Woman Assaulted While Walking Alone at Night",0.1
+"Cultural Festival Celebrates Diversity in Community",0.8
+"Forest Fire Destroys Historic National Park",0.05
+"Medical Breakthrough: New Treatment for Diabetes",0.9
+"Cyber Bullying Leads to Teen Suicide",0.05
+"Accessibility Initiative Makes Public Spaces Inclusive",0.8
+"Armed Robbery at Local Business Leaves Owner Injured",0.1
+"Clean Water Project Helps Developing Communities",0.9
+"Workplace Shooting Leaves Multiple Casualties",0.05
+"Affordable Housing Initiative Helps Homeless Families",0.8
+"Serial Rapist Targets College Campus",0.05
+"Rainforest Conservation Effort Shows Positive Results",0.8
+"Child Pornography Ring Busted by International Police",0.2
+"Mental Health Services Expand in Underserved Areas",0.8
+"Missing Person Case Ends in Tragic Discovery",0.1
+"Historic Election: First Female President",0.8
+"Mass Graves Discovered in Conflict Zone",0.05
+"Public Library Program Helps Adult Literacy",0.8
+"Hate Crime Against Religious Minority Community",0.1
+"Online Education Platform Reaches Rural Students",0.8
+"Cruise Ship Disaster: Hundreds Missing",0.05
+"Marine Conservation Area Revives Ocean Ecosystem",0.9
+"Human Rights Violations in Detention Centers",0.1
+"Virtual Reality Used to Preserve Indigenous Languages",0.8
+"Home Explosion Kills Family of Five",0.05
+"Microfinance Program Empowers Women Entrepreneurs",0.9
+"Deadly Tornado Destroys Small Midwestern Town",0.1
+"Revolutionary Solar Technology Reduces Energy Costs",0.8
+"Drug Cartel Violence Escalates Along Border",0.1
+"Inclusive Playground Designed for Children with Disabilities",0.9
+"Train Derailment Causes Toxic Chemical Leak",0.1
+"Historical Artifacts Returned to Indigenous Tribe",0.8
+"School Shooting Drill Traumatizes Students",0.2
+"Breakthrough in Affordable Housing Construction",0.8
+"Deadly Nightclub Fire Claims Dozens of Lives",0.05
+"Local Farm-to-Table Program Fights Food Insecurity",0.8
+"Sexual Harassment Scandal in Entertainment Industry",0.1
+"New Treatment for Depression Shows Promising Results",0.8
+"Pipeline Leak Contaminates Native American Land",0.1
+"Innovative Education Program Increases Graduation Rates",0.8
+"Terror Plot Foiled by Intelligence Agencies",0.4
+"Ocean Cleanup Project Removes Tons of Plastic",0.9
+"Gun Violence Claims Lives at Religious Service",0.05
+"Green Roof Initiative Improves Urban Air Quality",0.8
+"Missing Children Found in Human Trafficking Operation",0.4
+"Sustainable Building Design Wins Architectural Award",0.8
+"Fatal Police Chase Ends in Civilian Casualties",0.1
+"Community Health Program Reduces Diabetes Rates",0.8
+"Deadly Avalanche Traps Skiers at Resort",0.1
+"COVID-19 Variant Threatens Vaccine Effectiveness",0.1
+"International Alliance Forms Climate Action Pact",0.7
+"Supreme Court Overturns Landmark Abortion Decision",0.3
+"Online Privacy Law Passes Despite Tech Opposition",0.6
+"Teenager Invents Affordable Water Filtration System",0.9
+"Inflation Hits 40-Year High, Rattles Markets",0.1
+"Remote Work Policy Becomes Permanent at Major Company",0.6
+"University Research Team Develops New Battery Technology",0.8
+"Worker Strike Shuts Down Major Manufacturing Plant",0.2
+"Presidential Debate Focuses on Healthcare Reform",0.5
+"Artificial Intelligence Detects Cancer with High Accuracy",0.9
+"Housing Market Crash Affects First-Time Buyers",0.1
+"Controversial Book Ban in Public Schools Challenged",0.4
+"Electric Vehicle Sales Surpass Gas-Powered Cars",0.7
+"Homelessness Crisis Grows in Major Urban Centers",0.1
+"Genetic Engineering Breakthrough Could Cure Rare Diseases",0.9
+"Labor Shortage Affects Supply Chain Nationwide",0.2
+"Voting Rights Legislation Fails in Senate Vote",0.2
+"Renewable Energy Investment Creates Rural Jobs",0.8
+"Drug Overdose Death Rate Hits New Record",0.05
+"Artificial Intelligence Ethics Board Established",0.6
+"Teacher Shortage Forces School District Closures",0.1
+"Unprecedented Heatwave Breaks Temperature Records",0.1
+"Augmented Reality Changes How Students Learn Science",0.8
+"Rural Hospital Closures Leave Communities Vulnerable",0.1
+"International Space Station Celebrates 30 Years in Orbit",0.8
+"Controversial Law Restricts Transgender Healthcare",0.2
+"Food Delivery Drivers Form Union, Demand Better Conditions",0.6
+"Bird Flu Outbreak Threatens Poultry Industry",0.1
+"Affordable Housing Initiative Passed by City Council",0.7
+"Documentary Exposes Working Conditions in Tech Industry",0.3
+"Self-Driving Car Technology Faces Regulatory Hurdles",0.4
+"Minimum Wage Increase Takes Effect Nationwide",0.6
+"New Social Media Platform Prioritizes User Privacy",0.7
+"Winter Storm Leaves Millions Without Power",0.1
+"Gene Editing Technology Raises Ethical Questions",0.5
+"University Tuition Increase Sparks Student Protests",0.2
+"Traditional Media Outlet Transitions to Digital-Only",0.4
+"Wildfire Smoke Affects Air Quality Across Country",0.1
+"NFT Market Collapse Leaves Artists in Financial Trouble",0.2
+"Public Transportation Project Connects Underserved Areas",0.8
+"Data Privacy Law Implementation Faces Challenges",0.4
+"Youth-Led Climate Protest Draws Thousands",0.6
+"Healthcare Worker Shortage Reaches Critical Levels",0.1
+"Autonomous Delivery Robots Deploy in Urban Areas",0.7
+"Child Care Costs Force Parents Out of Workforce",0.1
+"Urban Beekeeping Initiative Helps Pollinator Populations",0.8
+"Corporate Tax Haven Investigation Reveals Billions Hidden",0.2
+"Sustainable Fashion Brand Uses Recycled Materials",0.8
+"Digital Divide Affects Remote Learning Success",0.2
+"NASA Announces Plans for Next Generation Space Telescope",0.8
+"Workforce Automation Displaces Factory Workers",0.1
+"Community Solar Project Reduces Energy Bills",0.8
+"Fast Fashion Industry Linked to Environmental Damage",0.1
+"Virtual Reality Therapy Helps Chronic Pain Patients",0.8
+"Synthetic Meat Product Gains Mainstream Acceptance",0.6
+"Machine Learning Algorithm Predicts Flood Risks",0.7
+"Password Manager Breach Exposes Millions of Accounts",0.1
+"3D Printed Houses Offer Affordable Housing Solution",0.8
+"Dating App Policies Change After Safety Concerns",0.5
+"Quantum Computing Breakthrough in Encryption Technology",0.8
+"Social Media Detox Movement Gains Popularity",0.6
+"Smartphone Addiction Linked to Depression in Teens",0.1
+"Vertical Farming Initiative Expands in Urban Areas",0.8
+"Facial Recognition Technology Used Without Consent",0.1
+"Rural Broadband Initiative Connects Remote Communities",0.8
+"Screen Time Guidelines Updated by Pediatricians",0.5
+"Cryptocurrency Adoption Grows in Developing Nations",0.6
+"Digital Nomad Visa Program Launches in Island Nation",0.7
+"Loneliness Epidemic Declared Public Health Crisis",0.1
+"Virtual Concert Attracts Record Online Audience",0.7
+"Misinformation Campaign Targets Election Process",0.1
