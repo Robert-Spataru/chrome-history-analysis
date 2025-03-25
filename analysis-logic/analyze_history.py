@@ -24,8 +24,7 @@ class BrowserHistoryAnalyzer:
         self.dataframe_path = dataframe_path
         self.time_period = time_period
         self.analyzer_method_menu = {
-            1: "sentiment_over_time",
-            2: "word_semantics_over_time",
+            1: "sentiment_over_time"
         }
     
     def run_history_selector(self, path_name_1, path_name_2):
@@ -74,13 +73,8 @@ class BrowserHistoryAnalyzer:
         plt.ylabel("Positive Sentiment Score")
         plt.tight_layout()
         plt.show()
-        plt.savefig("month_sentiment.png")
+        plt.savefig("sentiment.png")
         
-
-        
-    def get_word_semantics_over_time(self):
-        # Placeholder for word semantics over time analysis.
-        print("Word semantics over time analysis not implemented yet.")
     
     def perform_analysis(self, analyzer_method):
         method = self.analyzer_method_menu[analyzer_method]
